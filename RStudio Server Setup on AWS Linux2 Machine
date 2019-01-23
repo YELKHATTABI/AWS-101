@@ -1,4 +1,4 @@
-## RStudio Server Setup on AWS Linux2 Machine
+# RStudio Server Setup on AWS Linux2 Machine
 
 Step 1 : Create an elastic IP address 
 The elastic IP address will be associated with your NAT getway instance that will be created automatically in step 3
